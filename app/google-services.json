@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "478677500076",
+    "project_id": "dailycodes-whatsapp",
+    "storage_bucket": "dailycodes-whatsapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:478677500076:android:a82e9031a461e5f6c09f09",
+        "android_client_info": {
+          "package_name": "com.example.whatsappclone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "478677500076-53tmmbbhs2sg5qvqk3e77hmjsacc8irn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-o6VqHdtetFGd_VWvMbA6tSJyONvgBHY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "478677500076-53tmmbbhs2sg5qvqk3e77hmjsacc8irn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
